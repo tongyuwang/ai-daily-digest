@@ -4,7 +4,7 @@ Daily and weekly AI content digest curated from X/Twitter bookmarks. The most in
 
 ## Daily Digests
 
-- [AI Digest - Feb 16, 2026](digests/2026-02-16.md) — Token Anxiety, Claude Code Tips, Skills Guide, AI Agent Business
+- [AI Digest - Feb 16, 2026](digests/2026-02-16.md) — SkillsBench reality check, OpenClaw cost optimization, Dario Amodei podcast, Vibeclawdbotting
 
 ## Weekly Digests
 

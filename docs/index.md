@@ -4,6 +4,7 @@ Daily and weekly AI content digest curated from X/Twitter bookmarks. The most in
 
 ## Daily Digests
 
+- [AI Digest - Feb 17, 2026](digests/2026-02-17.md) — Terminal-first dev, SkillsBench paper, Dario Amodei podcast, OpenClaw cost guide, vibecoding marketing
 - [AI Digest - Feb 16, 2026](digests/2026-02-16.md) — SkillsBench reality check, OpenClaw cost optimization, Dario Amodei podcast, Vibeclawdbotting
 
 ## Weekly Digests

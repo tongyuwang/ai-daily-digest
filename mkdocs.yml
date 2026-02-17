@@ -17,7 +17,6 @@ theme:
   custom_dir: overrides
 nav:
   - Home: index.md
-  - Digests: digests/
 plugins:
   - search
 markdown_extensions:

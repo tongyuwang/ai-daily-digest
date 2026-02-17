@@ -1,0 +1,27 @@
+site_name: AI Daily Digest
+site_description: Daily AI digest curated from X/Twitter bookmarks
+site_url: https://tongyuwang.github.io/ai-daily-digest
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: amber
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.instant
+    - navigation.top
+    - search.highlight
+nav:
+  - Home: index.md
+  - Digests: digests/
+plugins:
+  - search
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences

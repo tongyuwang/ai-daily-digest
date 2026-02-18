@@ -11,10 +11,8 @@ Daily and weekly AI content curated from X/Twitter bookmarks — the most intere
 
 ## January 2026
 
-???+ note "5 digests"
-
-    - [Jan 26–Feb 1](2026-01-26-to-2026-02-01.md) — OpenClaw explosion, Karpathy on self-organizing agents, Dario Amodei on AI risks, HyperSkill
-    - [Jan 19–25](2026-01-19-to-2026-01-25.md) — Claude's Constitution, agents.md best practices, NVIDIA PersonaPlex, Claude Code best practices
-    - [Jan 12–18](2026-01-12-to-2026-01-18.md) — Ralph Wiggum loops, multi-agent architectures, Cartographer skill, Agent Lightning
-    - [Jan 5–11](2026-01-05-to-2026-01-11.md) — Claude Code renaissance, Ralph system, Anthropic evals, agent SDK, Cowork launch
-    - [Jan 1–4](2026-01-01-to-2026-01-04.md) — Boris Cherny's Claude Code setup, 31 days of features, Agent SDK, vibe coding agents compared
+- [Jan 26–Feb 1](2026-01-26-to-2026-02-01.md) — OpenClaw explosion, Karpathy on self-organizing agents, Dario Amodei on AI risks, HyperSkill
+- [Jan 19–25](2026-01-19-to-2026-01-25.md) — Claude's Constitution, agents.md best practices, NVIDIA PersonaPlex, Claude Code best practices
+- [Jan 12–18](2026-01-12-to-2026-01-18.md) — Ralph Wiggum loops, multi-agent architectures, Cartographer skill, Agent Lightning
+- [Jan 5–11](2026-01-05-to-2026-01-11.md) — Claude Code renaissance, Ralph system, Anthropic evals, agent SDK, Cowork launch
+- [Jan 1–4](2026-01-01-to-2026-01-04.md) — Boris Cherny's Claude Code setup, 31 days of features, Agent SDK, vibe coding agents compared

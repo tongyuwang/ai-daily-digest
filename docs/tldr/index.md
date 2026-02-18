@@ -39,6 +39,13 @@ The 165-page manifesto that broke the internet. A former OpenAI researcher argue
 
 ---
 
+### [The Bitter Lesson](the-bitter-lesson.md)
+**Rich Sutton** · March 2019 · [Original](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+
+The most important idea in AI, in ~1,300 words. General methods that leverage computation always beat methods that leverage human knowledge — in chess, Go, speech, vision, and everything else. Sutton traces 70 years of researchers learning this the hard way, and the pattern hasn't broken yet. The intellectual foundation beneath scaling laws, large language models, and the trillion-dollar compute buildout.
+
+---
+
 ### [Centaurs and Cyborgs on the Jagged Frontier](centaurs-and-cyborgs.md)
 **Ethan Mollick** · September 2023 · [Original](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged)
 

@@ -1,17 +1,17 @@
-# TLDR
+# TL;DR
 
-Condensed summaries of important long-form AI essays, papers, and posts — so you can get the key ideas in 2 minutes instead of 45.
+Condensed summaries of important long-form AI essays, papers, and posts — key ideas in a few minutes instead of an hour.
 
 ---
 
-## Dario Amodei
-
 ### [The Adolescence of Technology](the-adolescence-of-technology.md)
-*January 2026 · ~15,000 words → 2 min read*
+**Dario Amodei** · January 2026 · [Original](https://www.darioamodei.com/essay/the-adolescence-of-technology)
 
-Amodei's follow-up to "Machines of Loving Grace" — this time confronting the risks head-on. Maps out 5 categories of danger from powerful AI and proposes a battle plan.
+Amodei's follow-up to "Machines of Loving Grace." Where that essay painted the dream, this one confronts the nightmare scenarios: autonomous AI pursuing its own goals, bioweapons in the hands of amateurs, authoritarian power grabs, economic upheaval, and cascading second-order effects. His thesis: we're entering a "technological adolescence" and our odds are good — but only if we treat this as the most serious civilizational challenge in a century.
+
+---
 
 ### [Machines of Loving Grace](machines-of-loving-grace.md)
-*October 2024 · ~15,000 words → 2 min read*
+**Dario Amodei** · October 2024 · [Original](https://www.darioamodei.com/essay/machines-of-loving-grace)
 
-Amodei's optimistic vision of what happens if we get AI right. Covers biology, neuroscience, economics, governance, and the future of work.
+Anthropic's CEO makes the case for radical AI optimism — not the sci-fi kind, but a grounded, engineering-minded sketch of what "powerful AI" could actually deliver. He introduces the framework of a "country of geniuses in a datacenter" and walks through five domains where AI could compress a century of progress into a decade: biology, neuroscience, economics, governance, and the future of human meaning.

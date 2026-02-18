@@ -17,7 +17,11 @@ theme:
   custom_dir: overrides
 nav:
   - Home: index.md
-  - TLDR: tldr/index.md
+  - AI Digests: digests/index.md
+  - TL;DR:
+    - tldr/index.md
+    - The Adolescence of Technology: tldr/the-adolescence-of-technology.md
+    - Machines of Loving Grace: tldr/machines-of-loving-grace.md
 plugins:
   - search
 markdown_extensions:
@@ -26,3 +30,4 @@ markdown_extensions:
   - admonition
   - pymdownx.highlight
   - pymdownx.superfences
+  - pymdownx.details

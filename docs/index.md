@@ -10,5 +10,6 @@
 
 ## TL;DR
 
+- **[Claude's Constitution](tldr/claudes-constitution.md)** — Anthropic's 80-page "soul document" that shapes how Claude thinks, makes decisions, and balances safety, ethics, and helpfulness.
 - **[The Adolescence of Technology](tldr/the-adolescence-of-technology.md)** — Dario Amodei maps out the five existential risks of powerful AI and argues we're entering a "technological adolescence" that will test humanity as a species.
 - **[Machines of Loving Grace](tldr/machines-of-loving-grace.md)** — Amodei's optimistic counterpart: what happens if we get AI right, from curing cancer in a decade to reshaping the global economy.

@@ -4,6 +4,13 @@ Condensed summaries of important long-form AI essays, papers, and posts — key 
 
 ---
 
+### [Claude's Constitution](claudes-constitution.md)
+**Anthropic** · January 2026 · [Original](https://www.anthropic.com/constitution)
+
+Anthropic published the 80-page "soul document" that governs how Claude thinks and makes decisions. Not a list of rules but a moral philosophy thesis written *for* Claude — covering its priority stack (safety > ethics > guidelines > helpfulness), the "brilliant friend" standard for how it should help people, hard constraints it should never violate, and an unusually candid exploration of whether Claude might have consciousness or moral status.
+
+---
+
 ### [The Adolescence of Technology](the-adolescence-of-technology.md)
 **Dario Amodei** · January 2026 · [Original](https://www.darioamodei.com/essay/the-adolescence-of-technology)
 

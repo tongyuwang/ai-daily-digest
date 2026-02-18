@@ -20,6 +20,7 @@ nav:
   - AI Digests: digests/index.md
   - TL;DR:
     - tldr/index.md
+    - Claude's Constitution: tldr/claudes-constitution.md
     - The Adolescence of Technology: tldr/the-adolescence-of-technology.md
     - Machines of Loving Grace: tldr/machines-of-loving-grace.md
 plugins:

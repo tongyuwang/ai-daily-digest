@@ -4,6 +4,7 @@ Daily and weekly AI content curated from X/Twitter bookmarks — the most intere
 
 ## February 2026
 
+- [Feb 18](2026-02-18.md) — Harness engineering, WebMCP spec, token anxiety, vertical SaaS selloff, system prompt analysis
 - [Feb 17](2026-02-17.md) — Terminal-first dev, SkillsBench paper, Dario Amodei podcast, OpenClaw cost guide, vibecoding marketing
 - [Feb 16](2026-02-16.md) — SkillsBench reality check, OpenClaw cost optimization, Dario Amodei podcast, Vibeclawdbotting
 - [Feb 9–15](2026-02-09-to-2026-02-15.md) — Skills as the new moat, agent obsession culture, AI business opportunity, future of software dev

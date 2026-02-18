@@ -2,11 +2,11 @@
 
 ## Recent Digests
 
+- [Feb 18, 2026](digests/2026-02-18.md) — Harness engineering, WebMCP spec, token anxiety, vertical SaaS selloff, system prompt analysis
 - [Feb 17, 2026](digests/2026-02-17.md) — Terminal-first dev, SkillsBench paper, Dario Amodei podcast, OpenClaw cost guide
 - [Feb 16, 2026](digests/2026-02-16.md) — SkillsBench reality check, OpenClaw cost optimization, Vibeclawdbotting
 - [Feb 9–15, 2026](digests/2026-02-09-to-2026-02-15.md) — Skills as the new moat, agent obsession culture, future of software dev
 - [Feb 2–8, 2026](digests/2026-02-02-to-2026-02-08.md) — Claude Code inflection point, PM operating systems, vibe coding
-- [Jan 26–Feb 1, 2026](digests/2026-01-26-to-2026-02-01.md) — OpenClaw explosion, Karpathy on self-organizing agents, HyperSkill
 
 ## TL;DR
 

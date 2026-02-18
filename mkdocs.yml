@@ -25,6 +25,8 @@ nav:
     - The Urgency of Interpretability: tldr/urgency-of-interpretability.md
     - Machines of Loving Grace: tldr/machines-of-loving-grace.md
     - "Situational Awareness: The Decade Ahead": tldr/situational-awareness.md
+    - Centaurs and Cyborgs on the Jagged Frontier: tldr/centaurs-and-cyborgs.md
+    - Attention Is All You Need: tldr/attention-is-all-you-need.md
 plugins:
   - search
 markdown_extensions:

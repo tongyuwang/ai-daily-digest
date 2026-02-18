@@ -36,3 +36,17 @@ Anthropic's CEO makes the case for radical AI optimism — not the sci-fi kind, 
 **Leopold Aschenbrenner** · June 2024 · [Original](https://situational-awareness.ai/)
 
 The 165-page manifesto that broke the internet. A former OpenAI researcher argues, with detailed technical reasoning, that AGI will arrive by 2027 and superintelligence within a year after that. Covers the compute trendlines, the intelligence explosion, trillion-dollar clusters, lab security failures, and why this is fundamentally a great power competition. Polarizing but undeniably influential — it shaped how policymakers and investors think about AI timelines.
+
+---
+
+### [Centaurs and Cyborgs on the Jagged Frontier](centaurs-and-cyborgs.md)
+**Ethan Mollick** · September 2023 · [Original](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged)
+
+The first rigorous, large-scale experiment proving AI's impact on knowledge work. 758 BCG consultants, randomized with and without GPT-4 access, showed 12% more tasks completed, 25% faster, 40% higher quality. Introduced the "jagged frontier" framework — AI's invisible, irregular capability boundary — and two models for human-AI collaboration: Centaurs (clear division of labor) and Cyborgs (deeply blended work).
+
+---
+
+### [Attention Is All You Need](attention-is-all-you-need.md)
+**Vaswani et al.** · June 2017 · [Paper](https://arxiv.org/abs/1706.03762)
+
+The 15-page paper that started everything. Eight Google researchers proposed the Transformer architecture — dispensing with recurrence entirely in favor of pure attention mechanisms — and inadvertently built the foundation for GPT, Claude, Gemini, and the entire generative AI revolution. Over 100,000 citations. Most of the original authors went on to found major AI companies. The most consequential ML paper of the century.

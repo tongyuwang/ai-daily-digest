@@ -1,4 +1,4 @@
-# Tongyu's AI Daily Digest
+# Tongyu's AI Digest
 
 ## Recent Digests
 

@@ -18,7 +18,21 @@ Amodei's follow-up to "Machines of Loving Grace." Where that essay painted the d
 
 ---
 
+### [The Urgency of Interpretability](urgency-of-interpretability.md)
+**Dario Amodei** · April 2025 · [Original](https://www.darioamodei.com/post/the-urgency-of-interpretability)
+
+We don't understand how our own AI systems work — and that's unprecedented in the history of technology. Amodei makes the case that building an "MRI for AI" before models become overwhelmingly powerful is one of the most important races humanity is running. Traces the technical progress from individual neurons to circuits, and argues the window to get this right may be startlingly narrow.
+
+---
+
 ### [Machines of Loving Grace](machines-of-loving-grace.md)
 **Dario Amodei** · October 2024 · [Original](https://www.darioamodei.com/essay/machines-of-loving-grace)
 
 Anthropic's CEO makes the case for radical AI optimism — not the sci-fi kind, but a grounded, engineering-minded sketch of what "powerful AI" could actually deliver. He introduces the framework of a "country of geniuses in a datacenter" and walks through five domains where AI could compress a century of progress into a decade: biology, neuroscience, economics, governance, and the future of human meaning.
+
+---
+
+### [Situational Awareness: The Decade Ahead](situational-awareness.md)
+**Leopold Aschenbrenner** · June 2024 · [Original](https://situational-awareness.ai/)
+
+The 165-page manifesto that broke the internet. A former OpenAI researcher argues, with detailed technical reasoning, that AGI will arrive by 2027 and superintelligence within a year after that. Covers the compute trendlines, the intelligence explosion, trillion-dollar clusters, lab security failures, and why this is fundamentally a great power competition. Polarizing but undeniably influential — it shaped how policymakers and investors think about AI timelines.

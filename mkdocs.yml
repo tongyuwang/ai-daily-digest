@@ -22,7 +22,9 @@ nav:
     - tldr/index.md
     - Claude's Constitution: tldr/claudes-constitution.md
     - The Adolescence of Technology: tldr/the-adolescence-of-technology.md
+    - The Urgency of Interpretability: tldr/urgency-of-interpretability.md
     - Machines of Loving Grace: tldr/machines-of-loving-grace.md
+    - "Situational Awareness: The Decade Ahead": tldr/situational-awareness.md
 plugins:
   - search
 markdown_extensions:

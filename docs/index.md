@@ -2,10 +2,20 @@
 
 Daily and weekly AI content digest curated from X/Twitter bookmarks. The most interesting AI-related posts and articles, collected, summarized, and published.
 
-## Daily Digests
+## Recent AI Digests
 
 - [AI Digest - Feb 17, 2026](digests/2026-02-17.md) — Terminal-first dev, SkillsBench paper, Dario Amodei podcast, OpenClaw cost guide, vibecoding marketing
 - [AI Digest - Feb 16, 2026](digests/2026-02-16.md) — SkillsBench reality check, OpenClaw cost optimization, Dario Amodei podcast, Vibeclawdbotting
+
+## TLDR Top 3
+
+Condensed summaries of must-read long-form AI essays — get the key ideas in 2 minutes.
+
+1. **[The Adolescence of Technology](tldr/the-adolescence-of-technology.md)** — Dario Amodei (Jan 2026). The risks of powerful AI and a battle plan to survive them.
+2. **[Machines of Loving Grace](tldr/machines-of-loving-grace.md)** — Dario Amodei (Oct 2024). The radically positive future if we get AI right.
+3. *More coming soon...*
+
+---
 
 ## Weekly Digests
 

@@ -17,6 +17,7 @@ theme:
   custom_dir: overrides
 nav:
   - Home: index.md
+  - TLDR: tldr/index.md
 plugins:
   - search
 markdown_extensions:

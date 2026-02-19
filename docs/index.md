@@ -2,6 +2,7 @@
 
 ## Recent Digests
 
+- [Feb 19, 2026](digests/2026-02-19.md) — OpenClaw skills & costs, harness engineering, agent autonomy, system prompts, code factories
 - [Feb 18, 2026](digests/2026-02-18.md) — Harness engineering, WebMCP spec, token anxiety, vertical SaaS selloff, system prompt analysis
 - [Feb 17, 2026](digests/2026-02-17.md) — Terminal-first dev, SkillsBench paper, Dario Amodei podcast, OpenClaw cost guide
 - [Feb 16, 2026](digests/2026-02-16.md) — SkillsBench reality check, OpenClaw cost optimization, Vibeclawdbotting

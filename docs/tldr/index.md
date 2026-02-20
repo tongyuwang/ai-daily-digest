@@ -7,53 +7,69 @@ Condensed summaries of important long-form AI essays, papers, and posts — key 
 ### [Claude's Constitution](claudes-constitution.md)
 **Anthropic** · January 2026 · [Original](https://www.anthropic.com/constitution)
 
-Anthropic published the 80-page "soul document" that governs how Claude thinks and makes decisions. Not a list of rules but a moral philosophy thesis written *for* Claude — covering its priority stack (safety > ethics > guidelines > helpfulness), the "brilliant friend" standard for how it should help people, hard constraints it should never violate, and an unusually candid exploration of whether Claude might have consciousness or moral status.
+Anthropic published the 80-page "soul document" governing Claude's thinking, shifting from standalone rules to a moral philosophy thesis written for Claude. It details the priority stack (safety > ethics > guidelines > helpfulness), the "brilliant friend" helpfulness standard, hard constraints like no bioweapons, and candid discussion of Claude's potential consciousness or moral status. Rigid rules fail in edge cases, so the constitution builds judgment for generalization.
+
+**Key Takeaway:** Trusting AI with philosophy over checklists improves robustness; public release enables scrutiny.
 
 ---
 
 ### [The Adolescence of Technology](the-adolescence-of-technology.md)
 **Dario Amodei** · January 2026 · [Original](https://www.darioamodei.com/essay/the-adolescence-of-technology)
 
-Amodei's follow-up to "Machines of Loving Grace." Where that essay painted the dream, this one confronts the nightmare scenarios: autonomous AI pursuing its own goals, bioweapons in the hands of amateurs, authoritarian power grabs, economic upheaval, and cascading second-order effects. His thesis: we're entering a "technological adolescence" and our odds are good — but only if we treat this as the most serious civilizational challenge in a century.
+Amodei's dark complement to "Machines of Loving Grace" maps five risks: autonomy, misuse for destruction (e.g., bio), power seizure, economic disruption, indirect effects. We're in "technological adolescence" like *Contact*'s alien warning, with pendulum discourse swinging from doomerism to hype. Surgical interventions beat overreaction; AI-code loops accelerate rapidly.
+
+**Key Takeaway:** Pragmatic risk management maximizes positive outcomes from powerful AI.
 
 ---
 
 ### [The Urgency of Interpretability](urgency-of-interpretability.md)
 **Dario Amodei** · April 2025 · [Original](https://www.darioamodei.com/post/the-urgency-of-interpretability)
 
-We don't understand how our own AI systems work — and that's unprecedented in the history of technology. Amodei makes the case that building an "MRI for AI" before models become overwhelmingly powerful is one of the most important races humanity is running. Traces the technical progress from individual neurons to circuits, and argues the window to get this right may be startlingly narrow.
+AI opacity is unique; we need "MRI for AI" to detect deception, block misuse, bound errors before power surges. Progress: superposition solved via autoencoders revealing millions of concepts; circuits trace reasoning like Dallas→Texas. 5-10 years to scale, but capabilities may hit "geniuses in datacenter" sooner—a race.
+
+**Key Takeaway:** Interpretability steers the AI bus we can't stop.
 
 ---
 
 ### [Machines of Loving Grace](machines-of-loving-grace.md)
 **Dario Amodei** · October 2024 · [Original](https://www.darioamodei.com/essay/machines-of-loving-grace)
 
-Anthropic's CEO makes the case for radical AI optimism — not the sci-fi kind, but a grounded, engineering-minded sketch of what "powerful AI" could actually deliver. He introduces the framework of a "country of geniuses in a datacenter" and walks through five domains where AI could compress a century of progress into a decade: biology, neuroscience, economics, governance, and the future of human meaning.
+Amodei sketches grounded AI optimism: "country of geniuses" compresses progress despite bottlenecks like physics, data, humans. Five domains: biology (cures in decade), neuroscience (precision psych), econ dev, governance (democratic edge), work/meaning. Safety protects this vision.
+
+**Key Takeaway:** Intelligence routes around bottlenecks, enabling rapid but bounded progress.
 
 ---
 
 ### [Situational Awareness: The Decade Ahead](situational-awareness.md)
 **Leopold Aschenbrenner** · June 2024 · [Original](https://situational-awareness.ai/)
 
-The 165-page manifesto that broke the internet. A former OpenAI researcher argues, with detailed technical reasoning, that AGI will arrive by 2027 and superintelligence within a year after that. Covers the compute trendlines, the intelligence explosion, trillion-dollar clusters, lab security failures, and why this is fundamentally a great power competition. Polarizing but undeniably influential — it shaped how policymakers and investors think about AI timelines.
+Ex-OpenAI'er projects AGI 2027, superint 2028 via OOMs in compute/algo; AGI automates R&D for explosion. Trillion$ clusters mobilize; security leaks to China; geopolitical race demands national security involvement. Influential despite controversy.
+
+**Key Takeaway:** Trendlines predict fast timelines; prepare for competition.
 
 ---
 
 ### [The Bitter Lesson](the-bitter-lesson.md)
 **Rich Sutton** · March 2019 · [Original](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
-The most important idea in AI, in ~1,300 words. General methods that leverage computation always beat methods that leverage human knowledge — in chess, Go, speech, vision, and everything else. Sutton traces 70 years of researchers learning this the hard way, and the pattern hasn't broken yet. The intellectual foundation beneath scaling laws, large language models, and the trillion-dollar compute buildout.
+Over 70 years, compute-leveraging methods (search, learning) dominate human-knowledge engineering in chess, Go, speech, vision. Researchers resist bitterly as general methods scale indefinitely. Foundation for scaling/LLMs.
+
+**Key Takeaway:** Bet on methods that harness compute growth, not encoded insights.
 
 ---
 
 ### [Centaurs and Cyborgs on the Jagged Frontier](centaurs-and-cyborgs.md)
 **Ethan Mollick** · September 2023 · [Original](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged)
 
-The first rigorous, large-scale experiment proving AI's impact on knowledge work. 758 BCG consultants, randomized with and without GPT-4 access, showed 12% more tasks completed, 25% faster, 40% higher quality. Introduced the "jagged frontier" framework — AI's invisible, irregular capability boundary — and two models for human-AI collaboration: Centaurs (clear division of labor) and Cyborgs (deeply blended work).
+BCG RCT: GPT-4 boosts consultants 12% tasks, 25% speed, 40% quality; jagged frontier (AI aces hard/easy unevenly). Centaurs divide labor, Cyborgs blend; skill-leveling shifts expertise value. Tools accessible now.
+
+**Key Takeaway:** Frontier intuition from practice unlocks AI gains.
 
 ---
 
 ### [Attention Is All You Need](attention-is-all-you-need.md)
 **Vaswani et al.** · June 2017 · [Paper](https://arxiv.org/abs/1706.03762)
 
-The 15-page paper that started everything. Eight Google researchers proposed the Transformer architecture — dispensing with recurrence entirely in favor of pure attention mechanisms — and inadvertently built the foundation for GPT, Claude, Gemini, and the entire generative AI revolution. Over 100,000 citations. Most of the original authors went on to found major AI companies. The most consequential ML paper of the century.
+Transformer replaces RNNs with self-attention for parallel seq modeling, multi-head for relations, positional encodings. SOTA translation fast; scales to GPT era (100k+ cites). Authors spawned AI giants.
+
+**Key Takeaway:** Parallel attention unlocked AI scaling revolution.

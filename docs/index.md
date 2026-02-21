@@ -11,7 +11,7 @@
 
 ## TL;DR
 
-- **[Claude's Constitution](tldr/claudes-constitution.md)** (Jan 2026)) — Anthropic's 80-page constitution acts as Claude's "soul document," moving from rigid rules to a moral philosophy framework written directly for the model. It establishes a priority stack—broad safety first, then ethics, guidelines, and helpfulness—with the "brilliant friend" standard for user interactions and hard constraints on harm. The document candidly explores Claude's potential consciousness and psychological security to foster stable judgment.
+- **[Claude's Constitution](tldr/claudes-constitution.md)** (Jan 2026) — Anthropic's 80-page constitution acts as Claude's "soul document," moving from rigid rules to a moral philosophy framework written directly for the model. It establishes a priority stack—broad safety first, then ethics, guidelines, and helpfulness—with the "brilliant friend" standard for user interactions and hard constraints on harm. The document candidly explores Claude's potential consciousness and psychological security to foster stable judgment.
 
   **Key Takeaway:** Transparent, public constitutions enable external evaluation of AI values and behaviors, promoting accountability.
 

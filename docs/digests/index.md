@@ -4,6 +4,7 @@ Daily and weekly AI content curated from X/Twitter bookmarks — the most intere
 
 ## February 2026
 
+- [Feb 25](2026-02-25.md) — Ralph Loop, autonomous dogfooding, Vercel Chat SDK, Claude+Codex debate loop, harness engineering playbook
 - [Feb 24](2026-02-24.md) — One-person dev team, Obsidian+Claude Code OS, SDLC is dead, Claude Code config as craft, agent autonomy study
 - [Feb 23](2026-02-23.md) — AI safety reframed, agent costs get real, OpenClaw ecosystem matures, multi-agent coding patterns, CLAUDE.md craft
 - [Feb 22](2026-02-22.md) — SDLC is dead, OpenClaw autopilot sales, x-cli for agents, distributed system patterns, agentic workflows

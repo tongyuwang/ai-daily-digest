@@ -4,6 +4,8 @@ Daily and weekly AI content curated from X/Twitter bookmarks — the most intere
 
 ## February 2026
 
+- [Feb 28](2026-02-28.md) — Claude computer use, Cowork plugin tier list, agent design as art, Agent Skills vs Agents, Sim open-source workflow canvas
+- [Feb 27](2026-02-27.md) — Karpathy's December inflection point, Sakana Doc-to-LoRA, AI models jailbreaking AI, Perplexity Computer, OpenFang OS
 - [Feb 26](2026-02-26.md) — OpenClaw as company OS, Obsidian+Claude Code moment, Cursor declares agent factory, AI Fluency Index, Claude Cowork setup
 - [Feb 25](2026-02-25.md) — Ralph Loop, autonomous dogfooding, Vercel Chat SDK, Claude+Codex debate loop, harness engineering playbook
 - [Feb 24](2026-02-24.md) — One-person dev team, Obsidian+Claude Code OS, SDLC is dead, Claude Code config as craft, agent autonomy study

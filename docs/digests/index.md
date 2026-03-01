@@ -2,6 +2,10 @@
 
 Daily and weekly AI content curated from X/Twitter bookmarks — the most interesting posts, threads, and articles collected and summarized.
 
+## March 2026
+
+- [Mar 1](2026-03-01.md) — Cursor pivots to agent factory, Claude Opus 4.6 design systems, Alibaba OpenSandbox, Simon Willison on cognitive debt
+
 ## February 2026
 
 - [Feb 28](2026-02-28.md) — Claude computer use, Cowork plugin tier list, agent design as art, Agent Skills vs Agents, Sim open-source workflow canvas

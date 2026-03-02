@@ -4,6 +4,7 @@ Daily and weekly AI content curated from X/Twitter bookmarks — the most intere
 
 ## March 2026
 
+- [Mar 2](2026-03-02.md) — The harness is the product, Agentic Software Engineering, Vercel Electron skill, Andrew Ng on compute efficiency, 17 agentic patterns
 - [Mar 1](2026-03-01.md) — Cursor pivots to agent factory, Claude Opus 4.6 design systems, Alibaba OpenSandbox, Simon Willison on cognitive debt
 
 ## February 2026

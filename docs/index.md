@@ -2,11 +2,11 @@
 
 ## Recent Digests
 
+- [Mar 5, 2026](digests/2026-03-05.md) — Paperclip zero-human companies, Boris Cherny on Claude Code origins, Jeremy Howard vibe coding critique, OpenAI Symphony in Elixir, LangWatch evals
 - [Mar 4, 2026](digests/2026-03-04.md) — Killing code review, Grep Is Dead (Claude Code memory), agent security checklist, eval skills, Karpathy on bespoke software
 - [Mar 2, 2026](digests/2026-03-02.md) — The harness is the product, Agentic Software Engineering, Vercel Electron skill, Andrew Ng on compute efficiency, 17 agentic patterns
 - [Mar 1, 2026](digests/2026-03-01.md) — Cursor pivots to agent factory, Claude Opus 4.6 design systems, Alibaba OpenSandbox, Simon Willison on cognitive debt
 - [Feb 28, 2026](digests/2026-02-28.md) — Claude computer use, Cowork plugin tier list, agent design as art, Agent Skills vs Agents, Sim open-source workflow canvas
-- [Feb 27, 2026](digests/2026-02-27.md) — Karpathy's December inflection point, Sakana Doc-to-LoRA, AI models jailbreaking AI, Perplexity Computer, OpenFang OS
 
 ## TL;DR
 

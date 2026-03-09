@@ -1,0 +1,13 @@
+site_name: AI Daily Digest
+site_description: Daily AI bookmarks and reading suggestions
+site_url: https://tongyuwang.github.io/ai-daily-digest/
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Digests: digests/index.md
+
+markdown_extensions:
+  - attr_list
+  - tables

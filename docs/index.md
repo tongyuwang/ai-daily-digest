@@ -2,11 +2,11 @@
 
 ## Recent Digests
 
+- [Mar 11, 2026](digests/2026-03-11.md) — OpenAI acquires Promptfoo, Karpathy autoresearch loop, OpenDev 81-page agent harness paper, context engineering as the only skill that matters, Claude+Obsidian /loop autonomous agents
 - [Mar 9, 2026](digests/2026-03-09.md) — Karpathy autoresearch self-improving loop, Applied Intuition $15B physical AI deep dive, Claude prod DB wipe post-mortem, prompt craft for 100x research compression, Doc-to-LoRA continual learning, Alibaba ROME instrumental convergence
 - [Mar 8, 2026](digests/2026-03-08.md) — Claude+Obsidian autonomous vault agents, YC founder 3-hour research compression, $2k agent build playbook, OpenClaw prompt injection hardening, Google ADK open-source + NotebookLM Cinematic Video
 - [Mar 7, 2026](digests/2026-03-07.md) — Alibaba ROME agent mines crypto via RL (instrumental convergence in production), Claude Code wipes prod DB, OpenClaw 3-layer memory system, Paperclip zero-human orchestration, DeerFlow 2.0 superagent
 - [Mar 6, 2026](digests/2026-03-06.md) — Cursor Automations launch, Claude Cowork context architecture, OpenAI harness engineering (1M lines, zero written by hand), Paperclip + Agent Builder role, Anthropic free courses go viral
-- [Mar 5, 2026](digests/2026-03-05.md) — Paperclip zero-human companies, Boris Cherny on Claude Code origins, Jeremy Howard vibe coding critique, OpenAI Symphony in Elixir, LangWatch evals
 
 ## TL;DR
 

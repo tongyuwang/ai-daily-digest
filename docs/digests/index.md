@@ -4,6 +4,7 @@ Daily and weekly AI content curated from X/Twitter bookmarks — the most intere
 
 ## March 2026
 
+- [Mar 16](2026-03-16.md) — GitNexus codebase knowledge graph via MCP, Spec-Driven Development as new engineering discipline, Claude Subagents vs Agent Teams, Karpathy's 342-occupation AI risk rankings, 61-agent Claude Code agency repo
 - [Mar 15](2026-03-15.md) — Anthropic Academy 13+ free courses + Claude Certified Architect, Hindsight kills RAG for agent memory, Princeton next-state signal paper, self-improving agent skills, harness-first architecture solidifies
 - [Mar 13](2026-03-13.md) — PM stack Obsidian+qmd+Claude Code crystallizes, AWARE enterprise agent governance (Glean/Palo Alto/Databricks), Claude generative UI reverse-engineered, RLM swarm agents, AutoHarness from DeepMind
 - [Mar 12](2026-03-12.md) — Karpathy autoresearch hits 38k bookmarks, OpenAI acquires Promptfoo, agent harness anatomy + evals, Claude Code SaaS tips go viral, code review is dying
